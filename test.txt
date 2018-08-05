@@ -1,4 +1,6 @@
 This is git test file to test commit and upload to github account.
 
+Adding another line to test 2nd commit in the same file at 4:31 PM ET.
+
 Rakesh Prasad
 5-Aug-18
